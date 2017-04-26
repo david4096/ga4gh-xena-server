@@ -1,4 +1,6 @@
-var controller = require('ga4gh-xena-controller');
+var xenaOptions = {};
+
+var controller = require('ga4gh-xena-controller')(xenaOptions);
 
 var options =   {
   grpc: {
