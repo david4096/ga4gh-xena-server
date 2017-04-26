@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/david4096/ga4gh-xena-server#readme",
   "dependencies": {
-    "ga4gh-base-controller": "file:///home/david/git/ga4gh-base-controller",
-    "ga4gh-node-gateway": "file:///home/david/git/ga4gh-node-gateway"
+    "ga4gh-base-controller": "file:///home/david/git/node/ga4gh-base-controller",
+    "ga4gh-node-gateway": "file:///home/david/git/node/ga4gh-node-gateway",
+    "ga4gh-xena-controller": "file:///home/david/git/node/ga4gh-xena-controller"
   }
 }
