@@ -1,4 +1,8 @@
-var xenaOptions = {};
+var xenaOptions = {
+  hostname: 'toil.xenahubs.net',
+  port: 80,
+  path: '/data/'
+};
 
 var controller = require('ga4gh-xena-controller')(xenaOptions);
 
